@@ -9,3 +9,4 @@ The project was to use Java OOP to design a project management system for a smal
 
 **Functionality**
 
+The UML diagram 
